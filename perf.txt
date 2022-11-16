@@ -1,0 +1,15 @@
+biyepicture
+clash
+django-project
+go.sh
+go.zip
+instruction.txt
+mem_sta
+memtier_benchmark
+perf.txt
+picture
+pycharm-professional-2022.1
+timeout
+typora_1.2.3_amd64.deb
+uftrace
+vue-front
